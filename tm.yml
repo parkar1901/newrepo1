@@ -1,1 +1,4 @@
 # install and deploy tomcat
+ - name: hii
+   host: tomcat_server
+   
